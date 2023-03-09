@@ -10,6 +10,7 @@ import {
     Linking,
 } from 'react-native';
 
+// Criações das Constantes que serão usadas
 const colorGithub = '#010409';
 const colorFontGiithub = '#C9D1D9';
 const colorDarkFontGithub = '#4F565E';
@@ -66,6 +67,7 @@ const App = () => {
 
 export default App;
 
+//Criando os estilos do app
 const style = StyleSheet.create({
     container: {
         // Column
